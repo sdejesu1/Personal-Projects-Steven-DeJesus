@@ -1,6 +1,4 @@
 # author: Steven De Jesus
-# assignment: final project // Hangman
-# class: cs021 green
 
 
 # program description: this program is a hangman game, where a word is chosen at random from a large set list of words
@@ -179,7 +177,7 @@ def start_game(game_list, game_name, first_time):
           
 
 def program_exit():
-    exit_choice = input('Would you like to continue?: ')
+    exit_choice = input('Would you like to continue? (y/n): ')
     if exit_choice == 'y':
         return True
     elif exit_choice == 'n':

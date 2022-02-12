@@ -8,7 +8,6 @@ import java.util.Scanner;
 import java.io.File;
 
 /** Steven De Jesus
- * CS110 A 
  * 
  * This program opens a file of integers (numbers.txt)
  * and produces an output file that contains a table with

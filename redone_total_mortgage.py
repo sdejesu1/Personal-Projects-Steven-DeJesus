@@ -1,5 +1,5 @@
 # author: Steven De Jesus
-# assignment : 5 redo
+
 
 # define main
 def main():

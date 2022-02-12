@@ -1,5 +1,6 @@
 # redone launch commit criteria assn
 # define some constants for criteria
+
 WIND_SPEED_CRITERIA = 35
 VISIBILITY_CRITERIA = 4
 CLOUD_CRITERIA = 4500
