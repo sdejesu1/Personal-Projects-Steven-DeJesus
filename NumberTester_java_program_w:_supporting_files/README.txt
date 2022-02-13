@@ -1,0 +1,4 @@
+This program is a small project designed to read integers from a file, numbers.txt, write into a file and format them into a table, and present whether the numbers are even, prime, or if there are repeating digits. This program uses methods and method calls, conditional statements, reading and writing files, and proper java documentation (@param and @return as well as descriptions of methods and steps)
+
+
+To utilize this program and achieve desired results, download the numbers.txt file in the same folder/path as NumberTester.java, and run the program. Then, open the numberSummary.txt file that is created during the run, and see how the program formats the numbers, and provides accurate informtaiton on whether the number is even or odd, prime or not, and if it has repeating digits. + means yes, and - means no. Thank you!

@@ -102,7 +102,7 @@ public class NumberTester
     /** isPrime method that takes int
      * and returns true if number is prime
      * false otherwise
-     * @params int fileNum, which accepts the parameter int values 
+     * @param int fileNum, which accepts the parameter int values 
      * from the output file, which are the numbers from numbers.txt
      * @return a boolean value based on whether the conditions are met */
 
@@ -120,7 +120,7 @@ public class NumberTester
     /** isEven method that takes int
      * and returns true if number is even
      * false otherwise
-     * @params int fileNum, which accepts the parameter int values 
+     * @param int fileNum, which accepts the parameter int values 
      * from the output file, which are the numbers from numbers.txt
      * @return a boolean value based on whether the conditions are met */
 
@@ -138,7 +138,7 @@ public class NumberTester
     /** isRepeatedDigits method that takes int
      * and returns true if number is prime
      * false otherwise
-     * @params int fileNum, which accepts the parameter int values 
+     * @param int fileNum, which accepts the parameter int values 
      * from the output file, which are the numbers from numbers.txt
      * @return a boolean value based on whether the conditions are met */
 
