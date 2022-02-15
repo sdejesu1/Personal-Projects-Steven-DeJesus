@@ -1,5 +1,6 @@
-public class SetEmployee {
-    public static void main(String[] args)
+public class SetEmployee 
+{
+        public static void main(String[] args)
     {
         Employee susan = new Employee("Susan Meyer", 47899, "Accounting", "Vice President");
 
