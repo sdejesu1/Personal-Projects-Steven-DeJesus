@@ -1,0 +1,68 @@
+Taxi
+Pat Hampton
+99 Second St, Burlington, VT 05401
+802-578-3987
+Dodge
+Durango  
+2015
+78888
+7
+true
+Pat Hampton
+99 Second St, Burlington, VT 05401
+802-578-3987
+34F98G4HA
+Automobile
+Jules Sanchez
+PO Box 912. Santa Clara, CA 98123
+714-982-1287
+Tesla
+Model D
+2020
+5600
+5
+false
+Truck
+Fran Holloway
+456 Oak Hill Rd, Seattle, WA 34512
+819-230-3827
+Mack
+TerraPro
+2010
+124000
+2
+2
+Automobile
+Hugo Trishman
+98 Main St, Oakland, CA 98234
+714-432-1198
+Honda
+RAV-4   
+2018
+25876
+4
+true
+Taxi
+John Gaston
+173 First Ave, Atlanta, GA 98234
+717-981-2876
+Toyota
+Camry  
+2010
+112567
+5
+false
+Tom Bradley
+456 United Dr, Denver, CO
+762-876-1736
+34F98G4HA
+Automobile
+Vickey Krouse
+456 Route 2, Washington, PA 18913
+724-344-7125
+Chevy
+Trailblazer
+2010
+98067
+7
+true
